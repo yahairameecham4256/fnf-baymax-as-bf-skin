@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Baymax Skin](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/fnf-baymax-as-bf-skin)
+[![Download Baymax Skin](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/fnf-baymax-as-bf-skin)
 
 </div>
 
@@ -78,7 +78,7 @@ The **Baymax as BF Skin** is a complete visual conversion for Friday Night Funki
 
 <div align="center">
 
-[![Download Baymax Skin](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/fnf-baymax-as-bf-skin)
+[![Download Baymax Skin](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/fnf-baymax-as-bf-skin)
 
 </div>
 
@@ -100,7 +100,7 @@ The **Baymax as BF Skin** is a complete visual conversion for Friday Night Funki
 
 <div align="center">
 
-[![Download Baymax Skin](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://tinyurl.com/fnf-baymax-as-bf-skin)
+[![Download Baymax Skin](https://img.shields.io/badge/Download-8A2BE2?style=for-the-badge&logo=github)](https://software-nation.com/fnf-baymax-as-bf-skin)
 
 **Version 1.0.4 Stable** — *Satisfied with your care.*
 
